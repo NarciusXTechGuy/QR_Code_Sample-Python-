@@ -1,7 +1,7 @@
+#Author:-NarciuxTechGuy
+#14/06/2022
+#
 #"pip install qrcode" this command should be initialized before writing the code.\\
-#
-#
-#
 #
 import qrcode
 #
